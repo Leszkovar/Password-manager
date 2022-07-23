@@ -7,7 +7,7 @@ import json
 FONT_NAME = ("Arial", 20)
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
-def new_func():
+def new_func2():
     pass
 
 def generate():
