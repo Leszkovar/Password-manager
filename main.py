@@ -7,7 +7,8 @@ import json
 FONT_NAME = ("Arial", 20)
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
-
+def new_func():
+    pass
 
 def generate():
 
@@ -133,8 +134,3 @@ search_button.grid(column=2, row=1, columnspan=2, sticky=E)
 
 
 windows.mainloop()
-
-
-
-
-
